@@ -6,3 +6,4 @@ def call(body) {
         body() // Exécute le bloc de code passé en paramètre depuis le Jenkinsfile
     }
 }
+
